@@ -1,0 +1,85 @@
+.container {
+    display: flex;
+    height: 40vh;
+    background-color: bisque;
+}
+
+.container img {
+    height: 110px;
+    width: 130px;
+    margin-left: 160px;
+    padding-top: 10px;
+
+}
+
+.heading {
+    align-items: center;
+}
+
+.heading h1 {
+    align-items: center;
+    color: blue;
+    margin-left: 50px;
+    font-size: 27px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.heading h4 {
+    color: blue;
+    margin-left: 34%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold
+}
+
+.heading p {
+    font-size: 20px;
+    color: purple;
+    margin-top: 70px;
+    line-height: 30px;
+}
+
+.img img {
+    height: 110px;
+    width: 70px;
+    margin-top: 15px;
+}
+
+.img input {
+    margin-right: 30px;
+    display: flex;
+    width: 90%;
+    height: 20px;
+    border: none;
+}
+
+.btn {
+    margin-top: 140px;
+}
+
+.box1 {
+    height: 13vh;
+    width: 206vh;
+    background-color: steelblue;
+    position: absolute;
+    margin-top: 19%;
+}
+
+.box1 ul {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 30px;
+
+
+
+}
+
+.box1 ul li {
+    background-color: rgb(252, 253, 254);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+
+}
